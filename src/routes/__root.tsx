@@ -43,10 +43,6 @@ export const Route = createRootRoute({
         rel: "stylesheet",
         href: appCss,
       },
-      {
-        rel: "stylesheet",
-        href: "https://fonts.googleapis.com/css2?family=Instrument+Serif&family=IBM+Plex+Mono:wght@400;500;600&display=swap",
-      },
     ],
   }),
   shellComponent: RootShell,

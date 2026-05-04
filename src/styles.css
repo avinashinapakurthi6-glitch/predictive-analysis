@@ -1,6 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
 @import "tailwindcss" source(none);
 @source "../src";
-@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
 
 :root {
   --bg: #f5f2ed;
